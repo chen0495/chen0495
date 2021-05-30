@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # README
+🔭只是一个苦逼的考研er罢了,冲冲冲!!!
 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen0495&count_private=true&show_icons=true&theme=tokyonight&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen0495&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen0495&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
