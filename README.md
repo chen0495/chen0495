@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 # README
 🔭只是一个苦逼的考研er罢了,冲冲冲!!!
 
+Welcome to my blog ➡ see [Chen0495](www.chen0495.top)
+
 ---
 
 ## Hi there👏
@@ -35,6 +37,8 @@ Here are some ideas to get you started:
 ---
 
 ## Platform&Tools
+
+![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img/20210530114745.svg) ![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img/20210530114841.svg) ![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img/20210530114923.svg) ![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img/20210530115004.svg) ![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img/20210530115009.svg) ![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img/20210530115029.svg) ![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img/20210530115112.svg)
 
 [![archlinux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
