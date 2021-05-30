@@ -18,12 +18,26 @@ Here are some ideas to get you started:
 
 ---
 
+## Hi there👏
+
+![](http://antzuhl.cn:4000/get/@chen0495.readme)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen0495&count_private=true&show_icons=true&theme=tokyonight&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen0495&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
+## Top repository
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chen0495&repo=pythonCrawlerForJSU)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Platform&Tools
+
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+
+![counter](https://visitor-badge.glitch.me/badge?page_id=chen0495.readme)
 
 ---
