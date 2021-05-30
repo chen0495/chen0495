@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # README
 🔭只是一个苦逼的考研er罢了,冲冲冲!!!
 
-**Welcome to my blog** ➡ see [Chen0495](www.chen0495.top)
+**Welcome to my blog** ➡ **see** [Chen0495](www.chen0495.top)
 
 ---
 
