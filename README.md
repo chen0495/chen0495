@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Hi there👏
 
-![](http://antzuhl.cn:4000/get/@chen0495.readme)
+![](http://antzuhl.cn:4000/get/@chen0495)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen0495&count_private=true&show_icons=true&theme=tokyonight&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ## Platform&Tools
 
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![archlinux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
-![counter](https://visitor-badge.glitch.me/badge?page_id=chen0495.readme)
+![counter](https://visitor-badge.glitch.me/badge?page_id=chen0495)
 
 ---
