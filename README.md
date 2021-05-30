@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chen0495/chen0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# README
+
+![Chen0495's github stats](https://github-readme-stats.vercel.app/api?username=hsiangfeng&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen0495)
+
+
