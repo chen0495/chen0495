@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Top repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chen0495&repo=pythonCrawlerForJSU)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chen0495&repo=pythonCrawlerForJSU)](https://github.com/chen0495/pythonCrawlerForJSU)
 
 ---
 
